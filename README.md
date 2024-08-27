@@ -10,4 +10,8 @@ Simple gallery with images from the pixabay API. Tailwind css is built into work
 4. VSCode for code editing with relevant plugins.
 5. Git for version control.
 
-"Developed a dynamic image gallery web application using React.js, integrated with the Pixabay API for real-time image retrieval. Leveraged Tailwind CSS for responsive, utility-first styling, ensuring a visually appealing and user-friendly interface. Implemented modern front-end workflows with PostCSS and Autoprefixer to enhance CSS compatibility across browsers. Utilized Node.js and npm for efficient environment setup and package management, and maintained code quality with Git version control. The project showcases a strong command of modern web development tools and practices."
+Developed a dynamic image gallery web application using React.js, integrated with the Pixabay API for real-time image retrieval. 
+Leveraged Tailwind CSS for responsive, utility-first styling, ensuring a visually appealing and user-friendly interface. 
+Implemented modern front-end workflows with PostCSS and Autoprefixer to enhance CSS compatibility across browsers. 
+Utilized Node.js and npm for efficient environment setup and package management, and maintained code quality with Git version control. 
+The project showcases a strong command of modern web development tools and practices.
